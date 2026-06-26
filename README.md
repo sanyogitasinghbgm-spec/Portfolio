@@ -2,7 +2,7 @@
 
 A premium, interactive, and fully responsive personal portfolio website designed to showcase my technical skills, projects, certifications, and achievements as a Software Engineer. Built using modern frontend technologies with rich animations, glassmorphic UI elements, and a dark mode aesthetic.
 
-🔗 **Live Demo**: [Deploy link will go here]
+🔗 **Live Demo**: https://portfolio-sand-two-39.vercel.app/
 
 ---
 
