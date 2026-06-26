@@ -71,7 +71,7 @@ const projects = [
     image: "/projects/project7.png",
     tags: ["Webhook", "Twilio", "Airtable ", "n8n"],
     link: "#",
-    github: "https://github.com/sanyogitasinghbgm-spec/movie-recommender-system.git",
+    github: "https://github.com/sanyogitasinghbgm-spec/adidas-customer-support-ai-agent.git",
   },
   {
     title: "VaaniAI — AI-Powered Civic Complaint Resolution System",
